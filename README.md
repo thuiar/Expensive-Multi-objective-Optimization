@@ -12,7 +12,6 @@
 ## Related Frameworks
 - [BoTorch](https://botorch.org/)
 - [GPyTorch](https://gpytorch.ai/)
-- [COCO](https://github.com/numbbo/coco)
 - [Geatpy](https://github.com/geatpy-dev/geatpy)
 - [DEAP](https://github.com/DEAP/deap)
 - [PlatEMO](https://github.com/BIMK/PlatEMO)
@@ -25,6 +24,8 @@
 - [UF](https://ojs.aaai.org/index.php/AAAI/article/view/10664) 
 - [WFG](https://ieeexplore.ieee.org/document/5353656) 
 - [DTLZ](https://www.cs.bham.ac.uk/~jdk/parego/)
+- [BBOB](https://numbbo.github.io/workshops/)
+- [COCO](https://github.com/numbbo/coco)
 - [Hyper-parameter Tuning](http://www2.imm.dtu.dk/pubdb/edoc/imm6284.pdf)\[[paper](http://www2.imm.dtu.dk/pubdb/edoc/imm6284.pdf), [code](https://github.com/rasmusbergpalm/DeepLearnToolbox)\]
 - [RWCMOPs](https://www.sciencedirect.com/science/article/pii/S2210650221001231)
 - [Real world Problems, RE](https://www.sciencedirect.com/science/article/pii/S1568494620300181), \[[Paper](https://ryojitanabe.github.io/reproblems/),[Code](https://github.com/happywhy/2021-RW-MOP)\]
