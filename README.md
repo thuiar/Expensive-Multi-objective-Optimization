@@ -12,10 +12,12 @@
 ## Related Frameworks
 - [BoTorch](https://botorch.org/)
 - [GPyTorch](https://gpytorch.ai/)
+- [COCO](https://github.com/numbbo/coco)
 - [Geatpy](https://github.com/geatpy-dev/geatpy)
 - [DEAP](https://github.com/DEAP/deap)
 - [PlatEMO](https://github.com/BIMK/PlatEMO)
 - [JMetal](https://github.com/jMetal/jMetal)
+- [Paver](https://github.com/coin-or/Paver)
 
 
 ## Related Benchmarks
