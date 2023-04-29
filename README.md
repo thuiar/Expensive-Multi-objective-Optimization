@@ -1,4 +1,4 @@
-# EMOP
+# AWESOME-EMOP
 > Paper List for Expensive Multi-objective Optimization 
 
 ## Table of Contents
@@ -12,12 +12,14 @@
 ## Related Frameworks
 - [BoTorch](https://botorch.org/)
 - [GPyTorch](https://gpytorch.ai/)
+- [nevergrad](https://github.com/facebookresearch/nevergrad)
 - [Geatpy](https://github.com/geatpy-dev/geatpy)
 - [DEAP](https://github.com/DEAP/deap)
+- [pymoo](https://pymoo.org/)
 - [PlatEMO](https://github.com/BIMK/PlatEMO)
 - [JMetal](https://github.com/jMetal/jMetal)
+- [MOBOpt](https://github.com/ppgaluzio/MOBOpt)
 - [Paver](https://github.com/coin-or/Paver)
-
 
 ## Related Benchmarks
 - [mDTLZ](https://ieeexplore.ieee.org/document/8372962)
@@ -31,37 +33,36 @@
 - [Real world Problems, RE](https://www.sciencedirect.com/science/article/pii/S1568494620300181), \[[Paper](https://ryojitanabe.github.io/reproblems/),[Code](https://github.com/happywhy/2021-RW-MOP)\]
 
 
-## Related Reviews
-- (2019) [Trends in Integration of Vision and Language Research: A Survey of Tasks, Datasets, and Methods](https://arxiv.org/abs/1907.09358)
-- (2019) [Multimodal Machine Learning: A Survey and Taxonomy](https://ieeexplore.ieee.org/abstract/document/8269806/)  (:bulb::bulb::bulb:)
-- (2019) [Deep Multimodal Representation Learning: A Survey](https://ieeexplore.ieee.org/abstract/document/8715409/)
-- (2019) [Multimodal Intelligence: Representation Learning, Information Fusion, and Applications](https://arxiv.org/abs/1911.03977)
-- (2018) [Multimodal Sentiment Analysis: Addressing Key Issues and Setting up Baselines](https://ieeexplore.ieee.org/abstract/document/8636432/) 
-- (2016) [Chinese Textual Sentiment Analysis: Datasets, Resources and Tools](https://www.aclweb.org/anthology/C16-3002.pdf)
-- (2017) [A review of affective computing: From unimodal analysis to multimodal fusion](https://www.sciencedirect.com/science/article/pii/S1566253517300738)
-- (2017) [A survey of multimodal sentiment analysis](https://www.sciencedirect.com/science/article/pii/S0262885617301191) 
-- (2013) [Representation Learning: A Review and New Perspectives](https://ieeexplore.ieee.org/abstract/document/6472238/)
-- (2005) [Multimodal approaches for emotion recognition: a survey](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/5670/0000/Multimodal-approaches-for-emotion-recognition-a-survey/10.1117/12.600746.short)
+## Related Reviews and Books
+- (2016) [Taking the Human Out of the Loop: A Review of Bayesian Optimization](https://www.cs.ox.ac.uk/people/nando.defreitas/publications/BayesOptLoop.pdf)
+- (2007) [Evolutionary Algorithms for Solving Multi-Objective Problems](https://link.springer.com/book/10.1007/978-0-387-36797-2) 
+- (2006) [Gaussian Process for Machine Learning](https://gaussianprocess.org/gpml/) 
 
 ## Related Conferences and Journals
 ### Coferences
-[ACL & EMNLP & NAACL & CoLing](https://www.aclweb.org/anthology/), 
 [AAAI](https://www.aaai.org/Library/AAAI/aaai-library.php), 
 [IJCAI](https://www.ijcai.org/proceedings/2019/), 
 [ICLR](https://openreview.net/group?id=ICLR.cc/2019/Conference), 
 [ICML](https://icml.cc/Conferences/2018/Schedule), 
-[NeurIPS](https://nips.cc/Conferences/2018/Schedule?type=Poster), 
-[ICMI](https://www.icmi.com/), 
-[ACM-MM](https://2020.acmmm.org/)
+[NeurIPS](https://nips.cc/Conferences/2018/Schedule?type=Poster),
+[UAI](https://www.auai.org/uai2023/),
+[AISTATS](https://aistats.org/),
+[PPSN](https://emo2023.liacs.leidenuniv.nl/category/ppsn/),
+[GECCO](https://gecco-2023.sigevo.org/HomePage),
+[CEC](https://2023.ieee-cec.org/)
 
 ### Journals
-[IEEE TRANSACTIONS ON PATTERN ANALYSIS AND MACHINE INTELLIGENCE](),
-[IEEE Transactions on Multimedia](), 
-[IEEE Transactions on Affective Computing](), 
-[Knowledge-based System](), 
-[Information Fusion](), 
-[IEEE Access](), 
-[IEEE Intelligent Systems](), 
+[IEEE Transactions On Evolutionary Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235),
+[IEEE Transactions on Cybernetics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036), 
+[IEEE Transactions on Intelligent Transportation Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979),
+[Knowledge-based System](https://www.sciencedirect.com/journal/knowledge-based-systems),
+[Soft Computating](https://www.springer.com/journal/500),
+[Journal of Global Optimization](https://www.springer.com/journal/10898)
+[Evolutionary Computation](https://direct.mit.edu/evco),
+[The Journal of Machine Learning Research](https://www.jmlr.org/),
+[Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing),
+[Journal of Optimization Theory and Applications](https://www.springer.com/journal/10957),
+[Swarm and Evolutionary Computation](https://www.sciencedirect.com/journal/swarm-and-evolutionary-computation)
 
 
 ## Multimodal Sentiment Analysis
