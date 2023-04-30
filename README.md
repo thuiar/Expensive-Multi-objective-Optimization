@@ -47,6 +47,7 @@
 [NIPS](https://nips.cc/Conferences/2018/Schedule?type=Poster),
 [UAI](https://www.auai.org/uai2023/),
 [AISTATS](https://aistats.org/),
+[ECML](https://2022.ecmlpkdd.org/),
 [PPSN](https://emo2023.liacs.leidenuniv.nl/category/ppsn/),
 [GECCO](https://gecco-2023.sigevo.org/HomePage),
 [CEC](https://2023.ieee-cec.org/)
@@ -82,11 +83,12 @@
 - (2022) [Pareto Set Learning for Expensive Multi-Objective Optimization](https://openreview.net/forum?id=vriLTB2-O0G) \[[code](https://github.com/Xi-L/PSL-MOBO)\]
 - (2022) [Joint Entropy Search for Multi-Objective Bayesian Optimization](https://openreview.net/forum?id=ZChgD8OoGds)\[[code](https://github.com/benmltu/JES)]
 - (2022) [Sentiment and Emotion help Sarcasm? A Multi-task Learning Framework for Multi-Modal Sarcasm, Sentiment and Emotion Analysis](https://www.aclweb.org/anthology/2020.acl-main.401/) \[[code](http://www.iitp.ac.in/˜ai-nlp-ml/resources.html)\]
-- (2021)[Parallel Bayesian Optimization of Multiple Noisy Objectives with Expected Hypervolume Improvement](https://openreview.net/pdf?id=A7pvvrlv68)\[[code](https://botorch.org/)\]
+- (2021) [Parallel Bayesian Optimization of Multiple Noisy Objectives with Expected Hypervolume Improvement](https://openreview.net/pdf?id=A7pvvrlv68)\[[code](https://botorch.org/)\]
 
 
 ### International Conference on Machine Learning (ICML)
 - (2022) [Dual Low-Rank Multimodal Fusion](https://proceedings.mlr.press/v162/daulton22a.html)\[[code](https://github.com/facebookresearch/robust_mobo)\]
+- (2021) [Latency-Aware Neural Architecture Search with Multi-Objective Bayesian Optimization](https://openreview.net/forum?id=0ciyfd4SvbI)
 
 
 ### International Conference on Learning Representations (ICLR)
@@ -99,6 +101,11 @@
 
 ### Association for Uncertainty in Artificial Intelligence (UAI)
 - (2021) [High-Dimensional Bayesian Optimization with Sparse Axis-Aligned Subspaces](https://auai.org/uai2021/pdf/uai2021.207.pdf)\[[code](https://github.com/martinjankowiak/saasbo)\]
+- (2021) [Multi-Objective Bayesian Optimization over High-Dimensional Search Spaces](https://proceedings.mlr.press/v180/daulton22a/daulton22a.pdf)\[[code](https://github.com/facebookresearch/morbo)\]
+
+### European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML)
+- (2021) [High-Dimensional Bayesian Optimisation with Variational Autoencoders and Deep Metric Learning](https://www.cl.cam.ac.uk/~ey204/teaching/ACS/R244_2022_2023/papers/HUAWEI_arxiv_2021.pdf)
+- (2021) [Bayesian Optimization with a Prior for the Optimum](https://link.springer.com/chapter/10.1007/978-3-030-86523-8_17)
 
 
 
