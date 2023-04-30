@@ -69,6 +69,7 @@
 - (2022) [Increasing the Scope as You Learn: Adaptive Bayesian Optimization in Nested Subspaces](https://openreview.net/pdf?id=e4Wf6112DI)\[[code](https://www.catalyzex.com/paper/arxiv:2210.02905/code)]
 - (2021) [Risk-averse Heteroscedastic Bayesian Optimization](https://proceedings.neurips.cc/paper/2021/file/8f97d1d7e02158a83ceb2c14ff5372cd-Paper.pdf)\[[code](https://github.com/Avidereta/risk-averse-hetero-bo)\]
 - (2021) [Reinforced Few-Shot Acquisition Function Learning for Bayesian Optimization](https://proceedings.neurips.cc/paper/2021/file/3fab5890d8113d0b5a4178201dc842ad-Paper.pdf)\[[code](https://github.com/pinghsieh/FSAF)\]
+
 -（2021）[Bayesian Optimization with High-Dimensional Outputs](https://openreview.net/pdf?id=vDo__0UwFNo)\[[code](https://botorch.org/tutorials/composite_mtbo)\]
 - (2021) [Batch Multi-Fidelity Bayesian Optimization with Deep Auto-Regressive Networks](https://openreview.net/forum?id=wF-llA3k32)
 - (2021) [BORE: Bayesian Optimization by Density-Ratio Estimation](https://icml.cc/virtual/2021/oral/10202)
